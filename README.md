@@ -30,8 +30,6 @@ A curated list of awesome programming projects, tutorials, tools, and resources 
 
 #### Ruby
 
-## CSS 
-
 ## Machine Learning
 * https://github.com/harfbuzz/harfbuzz - A Text shaping engine
 
