@@ -15,6 +15,7 @@ A curated list of awesome programming projects, tutorials, tools, and resources 
 #### Go (Golang)
 
 #### Java
+* [JUnitTest](https://github.com/moustafafarhat/JUnitTestJava) - JUnit in Java Best Practice (Annotations and Scenarios) 
 
 #### Javascript
 
@@ -31,7 +32,9 @@ A curated list of awesome programming projects, tutorials, tools, and resources 
 #### Ruby
 
 ## Machine Learning
-* https://github.com/harfbuzz/harfbuzz - A Text shaping engine
+* https://github.com/moustafafarhat/Tweets-sentiment-analysis - Sentiment analysis on Trump's tweets | Python | MultiNomial | Classification 
+
+* https://github.com/moustafafarhat/Face-Detection -  Face Detection using Machine Learning Algorithm for educational Purposes | Classification | Face Recognition | Design Patterns 
 
 
 ## Deep Learning
