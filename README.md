@@ -52,12 +52,12 @@ Data, databases and content related or useful to ML projects.
 
 ## Awesome content
 
-* [ar-python](https://www.facebook.com/groups/132453040237101) - Learn Python in Arabic.
+* [Python in Arabic](https://www.facebook.com/groups/132453040237101) - Learn Python in Arabic.
 
 
 ## Communities
 * [LinuxAC](http://www.linuxac.org/) - Linux Arabic Community
-* [iSecur1ty](http://www.isecur1ty.org/) - Arabs Security and Ethical hacking community.
+
 
 ## Ebooks
 * [TODO]
@@ -66,6 +66,5 @@ Data, databases and content related or useful to ML projects.
 
 
 # Contributing
-
 Your contributions are welcome, just send me a Pull Request!.
 
