@@ -26,15 +26,16 @@ A curated list of awesome programming projects, tutorials, tools, and resources 
 ##### Wordpress
 
 #### Python
-* [ar2en](https://github.com/maherg/ar2en) - Renames Arabic files and directories into English recursively.
 
 
 #### Ruby
 
 ## Machine Learning
-* https://github.com/moustafafarhat/Tweets-sentiment-analysis - Sentiment analysis on Trump's tweets | Python | MultiNomial | Classification 
+* [Sentiment analysis on Trump's tweets](https://github.com/moustafafarhat/Tweets-sentiment-analysis) -  | Python | MultiNomial | Classification 
 
-* https://github.com/moustafafarhat/Face-Detection -  Face Detection using Machine Learning Algorithm for educational Purposes | Classification | Face Recognition | Design Patterns 
+* [Face Detection using Machine Learning Algorithm for educational Purposes](https://github.com/moustafafarhat/Face-Detection) -  | Classification | Face Recognition | Design Patterns 
+
+* [Breast Cancer Diagnosis using machine learning algorithms](https://github.com/moustafafarhat/BreastCancerDiagnosis) - | Deep Learning | Logistic Regression | API | Frontend | Backend | 
 
 
 ## Deep Learning
