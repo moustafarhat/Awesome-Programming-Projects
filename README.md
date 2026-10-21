@@ -2,8 +2,6 @@
 
 A curated list of awesome programming projects, tutorials, tools, and resources that are trying to support the programmers and enhance their experiences.
 
-> **بالعربي:** هذه الصفحة مرجع لكل مبرمج يبحث عن مشروع: فكرة يبنيها، مشروع مفتوح المصدر يساهم فيه، أو كود احترافي يتعلّم منه. المشاريع مرتّبة حسب اللغة والمجال، وكل مشروع تم التحقق منه على GitHub (نشِط وغير مؤرشف). عدد النجوم في الشارات يتحدّث تلقائياً.
-
 **How to use this list**
 
 | I want to... | Start here |
@@ -100,7 +98,11 @@ Each language has: **Learn** (tutorials and exercises), **Read the code** (well-
 
 * [C# Code Examples](https://github.com/moustafarhat/CSharp-Code-Examples) - C# Code examples from Beginner to advanced Level | Algorithms | Data Structures | Design Patterns| Unit Test 
 
-* [Abjad Calculator](https://github.com/moustafarhat/Abjad-Calculator) -  The Abjad numerals, also called Hisab al-Jummal (Arabic: حِسَاب ٱلْجُمَّل‎, ḥisāb al-jummal), are a decimal alphabetic numeral system/alphanumeric code, in which the 28 letters of the Arabic alphabet are assigned numerical values | String Manipulation | Data Structures | Design Patterns  
+* [Abjad Calculator](https://github.com/moustafarhat/Abjad-Calculator) -  The Abjad numerals, also called Hisab al-Jummal (ḥisāb al-jummal), are a decimal alphabetic numeral system/alphanumeric code, in which the 28 letters of the Arabic alphabet are assigned numerical values | String Manipulation | Data Structures | Design Patterns  
+
+* [MathGame](https://github.com/moustafarhat/MathGame) - Free, open-source math puzzle game for Windows, macOS and Linux: worlds, stages, stars and explanations for every wrong answer | .NET | Avalonia | Game
+
+* [FileOrganizer](https://github.com/moustafarhat/FileOrganizer) - Clean up messy folders: sort, bulk-rename and de-duplicate files with preview and one-click undo | .NET | Avalonia | Desktop App
 
 * [dotnet/eShop](https://github.com/dotnet/eShop) - Learn: official reference .NET e-commerce application.
 * [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) · [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Learn: Clean Architecture templates for ASP.NET Core.
@@ -129,6 +131,7 @@ Each language has: **Learn** (tutorials and exercises), **Read the code** (well-
 #### Java
 
 * [JUnitTest](https://github.com/moustafarhat/JUnitTestJava) - JUnit in Java Best Practice (Annotations and Scenarios) 
+* [BonanzaGame](https://github.com/moustafarhat/BonanzaGame) - Simple card game in Java for educational purposes | Design Patterns | Strategy Pattern | State Pattern | Factory Method | Plugin Mechanism
 * [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - Learn: algorithms and data structures in Java.
 * [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Learn: design patterns implemented in Java.
 * [eugenp/tutorials](https://github.com/eugenp/tutorials) - Learn: hundreds of small Spring and Java projects (Baeldung).
@@ -241,6 +244,10 @@ Each language has: **Learn** (tutorials and exercises), **Read the code** (well-
 
 ## Natural Language Processing
 
+* [Arabic Sentiment Analysis](https://github.com/moustafarhat/Arabic-Sentiment-Analysis) - | Sentiment Analysis | Text Classification | Machine Learning 
+
+* [PersonaWriter](https://github.com/moustafarhat/PersonaWriter) - Turn a few pages of writing into a reusable Claude skill that writes in that voice | Python | Style Analysis | AI 
+
 * [huggingface/transformers](https://github.com/huggingface/transformers) - State-of-the-art pretrained models for text, vision and audio.
 * [huggingface/course](https://github.com/huggingface/course) - The Hugging Face course on Transformers.
 * [explosion/spaCy](https://github.com/explosion/spaCy) - Industrial-strength NLP in Python.
@@ -270,7 +277,7 @@ Data, databases and content related or useful to ML projects.
 
 ## Arabic Projects & Content
 
-مشاريع ومحتوى عربي: لمعالجة اللغة العربية، دعم الاتجاه من اليمين لليسار (RTL)، والتعلّم بالعربي.
+Projects and content for Arabic NLP, right-to-left (RTL) support, and learning in Arabic.
 
 #### Arabic NLP & AI
 
@@ -289,7 +296,7 @@ Data, databases and content related or useful to ML projects.
 * [mpcabd/python-arabic-reshaper](https://github.com/mpcabd/python-arabic-reshaper) - Reshape Arabic text for apps that don't support it.
 * [pnarimani/RTLTMPro](https://github.com/pnarimani/RTLTMPro) - Right-to-left Arabic and Persian support for Unity TextMeshPro.
 * [rastikerdar/vazirmatn](https://github.com/rastikerdar/vazirmatn) - Open-source Persian/Arabic font.
-* [aliftype/amiri](https://github.com/aliftype/amiri) - Amiri (أميري), a classic Naskh typeface.
+* [aliftype/amiri](https://github.com/aliftype/amiri) - Amiri, a classic Naskh typeface.
 
 #### Learn in Arabic
 
@@ -299,7 +306,7 @@ Data, databases and content related or useful to ML projects.
 #### Arabic Lists
 
 * [01walid/awesome-arabic](https://github.com/01walid/awesome-arabic) - Awesome list: projects and resources for Arabic computing.
-* [mobadarah/tajmeeaton](https://github.com/mobadarah/tajmeeaton) - تجميعة من المشاريع العربية، وخصوصاً مفتوحة المصدر.
+* [mobadarah/tajmeeaton](https://github.com/mobadarah/tajmeeaton) - Collection of Arabic projects, mostly open source.
 
 ## Learning Paths & Interview Prep
 
