@@ -98,9 +98,9 @@ Each language has: **Learn** (tutorials and exercises), **Read the code** (well-
 
 #### C#
 
-* [C# Code Examples](https://github.com/moustafafarhat/CSharp-Code-Examples) - C# Code examples from Beginner to advanced Level | Algorithms | Data Structures | Design Patterns| Unit Test 
+* [C# Code Examples](https://github.com/moustafarhat/CSharp-Code-Examples) - C# Code examples from Beginner to advanced Level | Algorithms | Data Structures | Design Patterns| Unit Test 
 
-* [Abjad Calculator](https://github.com/moustafafarhat/Abjad-Calculator) -  The Abjad numerals, also called Hisab al-Jummal (Arabic: حِسَاب ٱلْجُمَّل‎, ḥisāb al-jummal), are a decimal alphabetic numeral system/alphanumeric code, in which the 28 letters of the Arabic alphabet are assigned numerical values | String Manipulation | Data Structures | Design Patterns  
+* [Abjad Calculator](https://github.com/moustafarhat/Abjad-Calculator) -  The Abjad numerals, also called Hisab al-Jummal (Arabic: حِسَاب ٱلْجُمَّل‎, ḥisāb al-jummal), are a decimal alphabetic numeral system/alphanumeric code, in which the 28 letters of the Arabic alphabet are assigned numerical values | String Manipulation | Data Structures | Design Patterns  
 
 * [dotnet/eShop](https://github.com/dotnet/eShop) - Learn: official reference .NET e-commerce application.
 * [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) · [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Learn: Clean Architecture templates for ASP.NET Core.
@@ -128,7 +128,7 @@ Each language has: **Learn** (tutorials and exercises), **Read the code** (well-
 
 #### Java
 
-* [JUnitTest](https://github.com/moustafafarhat/JUnitTestJava) - JUnit in Java Best Practice (Annotations and Scenarios) 
+* [JUnitTest](https://github.com/moustafarhat/JUnitTestJava) - JUnit in Java Best Practice (Annotations and Scenarios) 
 * [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - Learn: algorithms and data structures in Java.
 * [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Learn: design patterns implemented in Java.
 * [eugenp/tutorials](https://github.com/eugenp/tutorials) - Learn: hundreds of small Spring and Java projects (Baeldung).
@@ -211,11 +211,11 @@ Each language has: **Learn** (tutorials and exercises), **Read the code** (well-
 ---
 
 ## Machine Learning
-* [Sentiment analysis on Trump's tweets](https://github.com/moustafafarhat/Tweets-sentiment-analysis) -  | Python | MultiNomial | Classification 
+* [Sentiment analysis on Trump's tweets](https://github.com/moustafarhat/Tweets-sentiment-analysis) -  | Python | MultiNomial | Classification 
 
-* [Face Detection using Machine Learning Algorithm for educational Purposes](https://github.com/moustafafarhat/Face-Detection) -  | Classification | Face Recognition | Design Patterns 
+* [Face Detection using Machine Learning Algorithm for educational Purposes](https://github.com/moustafarhat/Face-Detection) -  | Classification | Face Recognition | Design Patterns 
 
-* [Breast Cancer Diagnosis using machine learning algorithms](https://github.com/moustafafarhat/BreastCancerDiagnosis) - | Deep Learning | Logistic Regression | API | Frontend | Backend | 
+* [Breast Cancer Diagnosis using machine learning algorithms](https://github.com/moustafarhat/BreastCancerDiagnosis) - | Deep Learning | Logistic Regression | API | Frontend | Backend | 
 
 * [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons of classic machine learning.
 * [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 weeks, 24 lessons covering the main areas of AI.
